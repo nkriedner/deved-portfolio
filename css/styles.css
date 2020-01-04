@@ -515,5 +515,9 @@ footer h4 {
   form {
     width: 100%;
   }
+  .intro-images,
+  .projects {
+    margin-bottom: 5rem;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
