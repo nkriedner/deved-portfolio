@@ -1,3 +1,3 @@
-# deved-portfolio
+# deved-portfolio - HTML & CSS Example Website
 
-This is the portfolio site project from Dev Ed's "Creative HTML & CSS" course.
+Final Website-Project for Dev End's "Creative HTML & CSS" course - using HML & CSS.
